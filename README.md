@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rovsen</h1>
 <h3 align="center">A passionate Frontend/Mobile/Backend developer from Azerbaijan</h3>
 
-🔵 🔭 I’m currently working on **React(Native).js**
+🔵 I’m currently working on **React(Native).js**
 
-🔵 💬 Ask me about **JavaScript Technologies**
+🔵 Ask me about **JavaScript Technologies**
 
-🔵 📫 How to reach me **rovsanmadatov9@gmail.com**
+🔵 How to reach me **rovsanmadatov9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
