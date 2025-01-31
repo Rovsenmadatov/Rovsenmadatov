@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Rovshen</h1>
-## 🚀 Front-End | Mobile | Backend Developer  
+##  🚀 Front-End | Mobile | Backend Developer  
 
 I’m a curious and creative problem solver who loves building things that make life easier and more enjoyable. Passionate about design, simplicity, and user experience, I enjoy crafting intuitive and engaging digital experiences.  
 
