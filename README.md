@@ -7,6 +7,9 @@ I believe in **continuous learning** and always strive to improve my skills and 
 
 When I’m not working, you’ll probably find me exploring new ideas, learning something interesting, or just enjoying a good conversation. Let’s connect and create something meaningful together!  
 
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -22,25 +25,15 @@ When I’m not working, you’ll probably find me exploring new ideas, learning 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
+                      
 ## Socials
 
-<div style="display: flex; gap: 0.5em; align-items: center;">
-  <a href="https://www.linkedin.com/in/rovsen-medetov/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="32">
-  </a>
-  <a href="https://x.com/Rovsen_512">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="Twitter" width="32">
-  </a>
-  <a href="https://www.instagram.com/rovsen_512/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="32">
-  </a>
-  <a href="mailto:rovsanmadatov9@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40">
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01cd808b155f83f06c">
-    <img src="https://cdn.worldvectorlogo.com/logos/upwork.svg" alt="Upwork" width="100">
-  </a>
-</div>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn"  width="32">](https://www.linkedin.com/in/rovsen-medetov/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="Twitter" width="32">](https://x.com/Rovsen_512)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="32">](https://www.instagram.com/rovsen_512/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40">](mailto:rovsanmadatov9@gmail.com)
+[<img src="https://cdn.worldvectorlogo.com/logos/upwork.svg" alt="Upwork" width="100">](https://www.upwork.com/freelancers/~01cd808b155f83f06c)
+
 
 ## My Website
 
