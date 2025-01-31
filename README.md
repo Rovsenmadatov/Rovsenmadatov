@@ -32,8 +32,8 @@ When I’m not working, you’ll probably find me exploring new ideas, learning 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="32">](https://www.linkedin.com/in/rovsen-medetov/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="Twitter" width="32">](https://x.com/Rovsen_512)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="32">](https://www.instagram.com/rovsen_512/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="32">](mailto:rovsanmadatov9@gmail.com)
-[<img src="https://cdn.worldvectorlogo.com/logos/upwork.svg" alt="Upwork" width="32">](https://www.upwork.com/freelancers/~01cd808b155f83f06c)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40">](mailto:rovsanmadatov9@gmail.com)
+[<img src="https://cdn.worldvectorlogo.com/logos/upwork.svg" alt="Upwork" width="50">](https://www.upwork.com/freelancers/~01cd808b155f83f06c)
 
 
 
