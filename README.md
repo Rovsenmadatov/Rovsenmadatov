@@ -27,7 +27,7 @@ When I’m not working, you’ll probably find me exploring new ideas, learning 
 </p>
 
                       
-<div style="display: flex; gap: 5px;">
+<div style="display: flex; gap: 5px; font-size: 0;">
   <a href="https://www.linkedin.com/in/rovsen-medetov/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="32">
   </a>
