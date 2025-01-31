@@ -29,11 +29,11 @@ When I’m not working, you’ll probably find me exploring new ideas, learning 
                       
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/rovsen-medetov/)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white&label=)](https://x.com/Rovsen_512)
-[![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=instagram&logoColor=white&label=)](https://www.instagram.com/rovsen_512/)
-[![Email](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white&label=)](mailto:rovsanmadatov9@gmail.com)
-[![Upwork](https://img.shields.io/badge/-Upwork-14A800?style=flat&logo=upwork&logoColor=white&label=)](https://www.upwork.com/freelancers/~01cd808b155f83f06c)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="32">](https://www.linkedin.com/in/rovsen-medetov/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="Twitter" width="32">](https://x.com/Rovsen_512)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="32">](https://www.instagram.com/rovsen_512/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="32">](mailto:rovsanmadatov9@gmail.com)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Upwork_Logo.png" alt="Upwork" width="32">](https://www.upwork.com/freelancers/~01cd808b155f83f06c)
 
 
 
